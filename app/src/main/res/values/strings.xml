@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SLIIT-Tute1</string>
+    <string name="tx_message">Enter a message</string>
+    <string name="send_massege">Send</string>
+</resources>
